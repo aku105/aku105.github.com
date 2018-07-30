@@ -1,33 +1,31 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
-author1:
+aku105:
   # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Amit Kumar
+  email:             10338408+aku105@users.noreply.github.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Just another software developer who delves more into DevOps rather than coding.
+    Good at picking things up (only if I get interested to it early on), quite lazy and get distracted very often :(
 
-    Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section.
   picture:
-    path:            https://placehold.it/128x128
+    path:            https://avatars0.githubusercontent.com/u/10338408?s=400&u=a3bd3fe8f6601b61f1655cdd93613c9da9931554&v=4
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            https://avatars0.githubusercontent.com/u/10338408?s=400&u=a3bd3fe8f6601b61f1655cdd93613c9da9931554&v=4
+      2x:            https://avatars0.githubusercontent.com/u/10338408?s=400&u=a3bd3fe8f6601b61f1655cdd93613c9da9931554&v=4
 
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   # social:
     # twitter:         <username>
-    # github:          <username>
+    github:          aku105
     # download:        <url>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
@@ -66,22 +64,22 @@ author1:
     # paypal:          <username>
 
 # Another author
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# author2:
+#   name:              <firtname> <lastname>
+#   email:             <mail@domain.tld>
+#   about:             |
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+#     Open `_data/authors.yml` to edit this text.
+#   picture:           https://placehold.it/128x128
+#   twitter:           <username>
+#   github:            <username>
 
-  # Every author can have his/her own accent color and image.
-  # This will change the appearance of all pages of this author.
-  accent_color:      '#268bd2'
-  accent_image:
-    background:      '#202020'
-    overlay:         false
+#   # Every author can have his/her own accent color and image.
+#   # This will change the appearance of all pages of this author.
+#   accent_color:      '#268bd2'
+#   accent_image:
+#     background:      '#202020'
+#     overlay:         false
