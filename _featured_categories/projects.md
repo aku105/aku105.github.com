@@ -17,6 +17,7 @@ description: >
 menu: true
 order: 1
 ---
+# Projects
 
 ## Jenkins shared library archetype
 
