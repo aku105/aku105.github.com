@@ -23,7 +23,7 @@ order: 1
 
 Maven archetype to create a Jenkins shared-library with test and code coverage frameworks integrated.
 
-[github.com/aku105/shared-lib-ci-archetype](https://github.com/aku105/shared-lib-ci-archetype)
+[github.com/aku105/shared-lib-ci-archetype](https://aku105.github.io/shared-lib-ci-archetype)
 
 ## NodeJS B&R Shared Library
 
