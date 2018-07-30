@@ -36,7 +36,7 @@ tagline:               >
 keywords:              []
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/icons/favicon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -44,7 +44,7 @@ author:
   name:                Amit Kumar
   email:               10338408+aku105@users.noreply.github.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  github:               aku105
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
@@ -71,7 +71,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/bg.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
