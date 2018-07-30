@@ -44,7 +44,7 @@ author:
   name:                Amit Kumar
   email:               10338408+aku105@users.noreply.github.com
   # Used by `jekyll-seo-tag`:
-  github:               aku105
+  # github:               aku105
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
@@ -60,11 +60,11 @@ copyright:             >
 #     href:              /cookies-policy/
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+# permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
-paginate_path:         /page-:num/
+# paginate:              5
+# paginate_path:         /page-:num/
 
 
 # Customizaton
